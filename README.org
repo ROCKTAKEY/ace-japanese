@@ -1,0 +1,8 @@
+[[https://github.com/ROCKTAKEY/ace-japanese][https://img.shields.io/github/tag/ROCKTAKEY/ace-japanese.svg?style=flat-square]]
+[[file:LICENSE][https://img.shields.io/github/license/ROCKTAKEY/ace-japanese.svg?style=flat-square]]
+[[https://github.com/ROCKTAKEY/ace-japanese/actions][https://img.shields.io/github/workflow/status/ROCKTAKEY/ace-japanese/CI/master.svg?style=flat-square]]
+* Jump Japanese character on ace-jump-mode
+
+* How to Use?
+* License
+  This package is licensed by GPLv3. See [[file:LICENSE][LICENSE]].
