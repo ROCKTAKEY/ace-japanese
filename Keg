@@ -1,4 +1,4 @@
 (source gnu melpa)
 
-(package (awesome
-          (recipe . (:fetcher github :repo "ROCKTAKEY/awesome"))))
+(package (ace-japanese
+          (recipe . (:fetcher github :repo "ROCKTAKEY/ace-japanese"))))
